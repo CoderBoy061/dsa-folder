@@ -1,0 +1,110 @@
+Array
+1. Two Sum: Find two numbers in an array that add up to a target.
+2. Kadane's Algorithm: Find the maximum sum of a contiguous subarray.
+3. Merge Intervals: Merge overlapping intervals.
+4. Dutch National Flag Problem: Sort an array of 0s, 1s, and 2s.
+5. Rotate Array: Rotate the array by k steps.
+6. Trapping Rainwater: Calculate the water trapped between bars.
+7. Subarray Sum Equals K: Find the number of subarrays that sum to a given value.
+8. Find the Duplicate Number: Identify a duplicate in an array of integers.
+9. Longest Consecutive Sequence: Find the longest sequence of consecutive integers in an array.
+10. Search in Rotated Sorted Array: Find a target in a rotated sorted array.
+
+Sliding Window Problems
+1. Maximum Sum Subarray of Size K: Find the maximum sum of any subarray of size K.
+2. Longest Substring with K Distinct Characters: Find the longest substring with exactly K distinct characters.
+3. Fruits into Baskets: Find the length of the longest subarray with at most two distinct characters.
+4. No-repeat Substring: Find the length of the longest substring without repeating characters.
+5. Minimum Window Substring: Find the smallest substring containing all characters of a given pattern.
+6. Words Concatenation: Find all starting indices of substrings in a string that are a concatenation of all given words.
+7. Permutation in a String: Check if a string contains any permutation of another string.
+8. Maximum of All Subarrays of Size K: Find the maximum value in each subarray of size K.
+9. Longest Substring with Same Letters after Replacement: Find the length of the longest substring containing the same letters after replacement.
+10. Longest Subarray with Ones after Replacement: Find the longest subarray with 1s after replacing at most K 0s.
+
+String
+1. Longest Palindromic Substring: Find the longest palindromic substring.
+2. Anagram Check: Determine if two strings are anagrams of each other.
+3. Group Anagrams: Group strings that are anagrams.
+4. Valid Parentheses: Check if a string has balanced parentheses.
+5. Longest Substring Without Repeating Characters: Find the length of the longest substring without repeating characters.
+6. Zigzag Conversion: Convert a string into a zigzag pattern.
+7. String Compression: Compress a string in-place.
+8. Edit Distance: Find the minimum number of edits required to convert one string to another.
+9. Implement strStr(): Find the first occurrence of a substring in a string.
+10. Count and Say: Solve the "count and say" problem.
+
+Linked List
+1. Reverse a Linked List: Reverse a singly linked list.
+2. Cycle Detection: Detect if a linked list has a cycle (Floyd's Cycle Detection).
+3. Merge Two Sorted Linked Lists: Merge two sorted linked lists into one.
+4. Remove N-th Node from End: Remove the N-th node from the end of the list.
+5. Intersection of Two Linked Lists: Find the node where two linked lists intersect.
+6. Palindrome Linked List: Check if a linked list is a palindrome.
+7. Flatten a Linked List: Flatten a multilevel doubly linked list.
+8. Sort a Linked List: Sort a linked list using merge sort.
+9. Copy List with Random Pointer: Clone a linked list with random pointers.
+10. Add Two Numbers: Add two numbers represented as linked lists.
+
+Binary Trees and Binary Search Trees
+1. Inorder, Preorder, Postorder Traversals: Traverse a tree in different orders.
+2. Level Order Traversal: Traverse a tree level by level.
+3. Maximum Depth of Binary Tree: Find the height of a binary tree.
+4. Lowest Common Ancestor: Find the lowest common ancestor of two nodes in a tree.
+5. Validate Binary Search Tree: Check if a binary tree is a valid BST.
+6. Binary Tree Paths: Find all root-to-leaf paths in a tree.
+7. Symmetric Tree: Check if a binary tree is symmetric.
+8. Flatten Binary Tree: Flatten a binary tree into a linked list in-place.
+9. Kth Smallest Element in BST: Find the k-th smallest element in a BST.
+10. Serialize and Deserialize Binary Tree: Convert a binary tree to/from a string representation.
+
+Stack and Queue
+1. Min Stack: Design a stack that supports push, pop, and retrieving the minimum element in constant time.
+2. Implement Queue Using Stacks: Implement a queue using two stacks.
+3. Next Greater Element: Find the next greater element for every element in an array.
+4. LRU Cache: Design and implement an LRU cache.
+5. Evaluate Reverse Polish Notation: Evaluate a postfix expression.
+6. Sliding Window Maximum: Find the maximum in every sliding window of size k.
+7. Generate Parentheses: Generate all valid parentheses combinations.
+8. Daily Temperatures: Find how many days until a warmer temperature.
+9. Asteroid Collision: Simulate collisions between asteroids in a stack.
+10. Largest Rectangle in Histogram: Find the largest rectangle in a histogram.
+
+Graph
+1. DFS and BFS Traversals: Implement Depth-First Search and Breadth-First Search.
+2. Number of Islands: Count the number of islands in a grid.
+3. Clone Graph: Clone a graph using DFS or BFS.
+4. Course Schedule: Determine if you can finish all courses given prerequisites.
+5. Shortest Path in Weighted Graph: Implement Dijkstra's or Bellman-Ford algorithm.
+6. Flood Fill: Implement the flood fill algorithm.
+7. Detect Cycle in Graph: Detect cycles in directed and undirected graphs.
+8. Topological Sort: Perform a topological sort of a directed graph.
+9. Connected Components: Find all connected components in a graph.
+10. Minimum Spanning Tree: Use Kruskal's or Prim's algorithm.
+
+Dynamic Programming
+1. Climbing Stairs: Count ways to climb n stairs with 1 or 2 steps at a time. - Done
+2. Coin Change: Find the minimum number of coins to make a given amount.
+3. Longest Increasing Subsequence: Find the length of the longest increasing subsequence.
+4. Knapsack Problem: Solve the 0/1 knapsack problem.
+5. House Robber: Maximize the amount of money robbed without robbing adjacent houses. - On going
+6. Unique Paths: Count the number of unique paths in a grid.
+7. Word Break: Check if a word can be segmented into a dictionary of words.
+8. Partition Equal Subset Sum: Determine if an array can be partitioned into two subsets with equal sum.
+9. Maximum Product Subarray: Find the maximum product of a contiguous subarray.
+10. Edit Distance: Find the minimum number of operations to convert one string into another.
+
+Greedy
+1. Activity Selection Problem: Select the maximum number of activities that don’t overlap.
+2. Fractional Knapsack: Maximize profit for a given weight capacity.
+3. Huffman Encoding: Construct a Huffman tree for file compression.
+4. Minimum Platforms: Find the minimum number of platforms needed at a railway station.
+5. Job Sequencing Problem: Maximize jobs done within deadlines.
+
+Bit Manipulation
+1. Single Number: Find the element that appears once in an array where every other element appears twice.
+2. Counting Bits: Count the number of 1s in binary representations for numbers from 0 to n.
+3. Power of Two: Check if a number is a power of two.
+4. XOR of All Numbers in Range: Calculate XOR for all numbers in a given range.
+5. Subset Generation: Generate all subsets of a set using bitmasking.
+
