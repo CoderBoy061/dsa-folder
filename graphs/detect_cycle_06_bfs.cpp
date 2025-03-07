@@ -1,4 +1,10 @@
 // fuction given in the programm
+<<<<<<< HEAD
+=======
+// ==================================Detect cycle in the Undirected connected graphs================================
+// ===========================  TC - O(n+2e)
+// ===========================  SC - O(n) 
+>>>>>>> dev2
 
 // fucntion we need to prepare
 // bool detectCycle(int srcNode , vector<int> &visited, vector<vector<int>> adj) {

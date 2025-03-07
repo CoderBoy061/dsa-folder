@@ -83,11 +83,11 @@ Graph
 10. Minimum Spanning Tree: Use Kruskal's or Prim's algorithm.
 
 Dynamic Programming
-1. Climbing Stairs: Count ways to climb n stairs with 1 or 2 steps at a time.
+1. Climbing Stairs: Count ways to climb n stairs with 1 or 2 steps at a time. - Done
 2. Coin Change: Find the minimum number of coins to make a given amount.
 3. Longest Increasing Subsequence: Find the length of the longest increasing subsequence.
 4. Knapsack Problem: Solve the 0/1 knapsack problem.
-5. House Robber: Maximize the amount of money robbed without robbing adjacent houses.
+5. House Robber: Maximize the amount of money robbed without robbing adjacent houses. - On going
 6. Unique Paths: Count the number of unique paths in a grid.
 7. Word Break: Check if a word can be segmented into a dictionary of words.
 8. Partition Equal Subset Sum: Determine if an array can be partitioned into two subsets with equal sum.

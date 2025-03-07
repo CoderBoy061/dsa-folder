@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 
+=======
+// ==============================Detect Cycle using DFS connected undirected graph===========================
+>>>>>>> dev2
 // helper function for detect cycle
 // bool detectCycleDFS(int srcNode, int parent ,vector<int> &visited,vector<vector<int>> adj ){
 //     // marking the first node as visited
